@@ -29,14 +29,12 @@ data_to_save = \
         # -----------------------------------------------------------------------------------------------------------------------
         "Objective":
             """ 
-            The goal of this project is to develop a methodology to analyze the socio-economic factors of a country and then predict the degree of political violence occuring in it based on those factors.
-            The goal of this project is to develop a methodology to map of deprived areas using a range of geospatial data
-            at approximately 100m grid cells. This will help cities understand the spatial pattern of Sustainable Development 
-            Goal 1 (Poverty) and Sustainable Development Goal 11 (sustainable cities and Communities). Want to use a
-            combination of open source geospatial data and satellite imagery to map variations in poverty. Allow for
-            comparisons between cities and determine if models made in one city can be used in another city. 
-            This project could possibly be funded by the European Space Agency (for 8 cities) and theoretically
-            could be expanded to the entire developing world.
+            The goal of this project is to develop a methodology to analyze the socio-economic factors of a country and
+            then predict the degree of political violence occuring in it based on those factors. This will help humanitarian
+            relief organizations predict which countries they may have to allocate resourcces to.  I want to use demographic
+            and economic statistics as well as details about the government of the countries being analyzed from both
+            historical sources and the present situation.  I would also like to facilitate making comparisons between countries.
+            This project could potentially be applied to all countries.
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Dataset":
