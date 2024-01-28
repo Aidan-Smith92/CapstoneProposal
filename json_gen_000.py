@@ -29,6 +29,7 @@ data_to_save = \
         # -----------------------------------------------------------------------------------------------------------------------
         "Objective":
             """ 
+            The goal of this project is to develop a methodology to analyze the socio-economic factors of a country and then predict the degree of political violence occuring in it based on those factors.
             The goal of this project is to develop a methodology to map of deprived areas using a range of geospatial data
             at approximately 100m grid cells. This will help cities understand the spatial pattern of Sustainable Development 
             Goal 1 (Poverty) and Sustainable Development Goal 11 (sustainable cities and Communities). Want to use a
