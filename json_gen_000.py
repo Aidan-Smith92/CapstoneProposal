@@ -25,7 +25,7 @@ data_to_save = \
             """Spring""",
         # -----------------------------------------------------------------------------------------------------------------------
         "project_name":
-            """Mapping Deprived Areas in Low and Middle Income Countries (LMIC) - Part 1""",
+            """Predicting Political Violence in a Country""",
         # -----------------------------------------------------------------------------------------------------------------------
         "Objective":
             """ 
