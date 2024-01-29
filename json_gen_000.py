@@ -45,7 +45,7 @@ data_to_save = \
         # -----------------------------------------------------------------------------------------------------------------------
         "Rationale":
             """
-            This project is going to help agencies to tackle poverty and help countries.
+            This project is going to help agencies to with the effects of civil wars and other forms of political violence
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Approach":
