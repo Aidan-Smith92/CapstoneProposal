@@ -41,6 +41,11 @@ data_to_save = \
             """
             I will use the international database of the census.
             https://www.census.gov/programs-surveys/international-programs/about/idb.html  
+
+            I will also use data from the World Bank.
+            https://data.worldbank.org/country
+
+            
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Rationale":
@@ -61,15 +66,7 @@ data_to_save = \
         # -----------------------------------------------------------------------------------------------------------------------
         "Timeline":
             """
-            This a rough time line for this project:  
-
-            - (3 Weeks) Data Automation.  
-            - (3 Weeks) Feature Importance  
-            - (4 Weeks) Modeling  
-            - (2 Weeks) Combine satellite images with covariate features  
-            - (1 Weeks) Compiling Results  
-            - (1 Weeks) Writing Up a paper and submission
-            - (1 Weeks) Final Presentation  
+            This a rough time line for this project:   
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Expected Number Students":
