@@ -39,6 +39,7 @@ data_to_save = \
         # -----------------------------------------------------------------------------------------------------------------------
         "Dataset":
             """
+            
             Dr. Ryan is going to provide us the data and the location of it. 
 
             We have a geospatial data for these three cities: Lagos Nigeria, Accra Ghana and Nairobi Kenya. Each city there is a 
@@ -88,7 +89,7 @@ data_to_save = \
         # -----------------------------------------------------------------------------------------------------------------------
         "Expected Number Students":
             """
-            For this project maximum 4 students can work on it.  
+            For this project, a maximum of 4 students can work on it.  
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Possible Issues":
