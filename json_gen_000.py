@@ -40,23 +40,7 @@ data_to_save = \
         "Dataset":
             """
             I will use the international database of the census.
-            https://www.census.gov/programs-surveys/international-programs/about/idb.html
-            Dr. Ryan is going to provide us the data and the location of it. 
-
-            We have a geospatial data for these three cities: Lagos Nigeria, Accra Ghana and Nairobi Kenya. Each city there is a 
-            series of covariates at 100m grid cells. There are 166 individual tif files that are aligned to the same grid for 
-            the cities. There are approximately 50-60 for each city. These data sets represent infrastructure, social economic 
-            status (SES), facilities and services, physical hazards and assets and others. The number of covariates varies by 
-            city, but there is a set that is common to all of the cities.  
-
-            For each city we are working on extracting Sentinel 2 imagery (10m spatial resolution) for each city. We are running 
-            contextual features for each city. This produces 144 layers from the imagery that map spatial patterns and estimates 
-            of vegetation. These features are calculated on the same grid and in such a way that a 10x10 group of pixels matches 
-            each 100m grid cell. Imagery is collected from Google Earth Engine (Training and validation Data). For Lagos and Accra
-            we have created a training and validation data set at the grid cell level. Training data is Deprived residential,
-            Other Built, and non-built. Model Attributes: Want to be able to model deprivation estimate at the 100m grid cell 
-            level. Test different models to be able to do this. Also, estimate of degree of deprivation, produce a scale of 
-            deprivation so that city governments can set this level themselves and play around with the models.  
+            https://www.census.gov/programs-surveys/international-programs/about/idb.html  
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Rationale":
@@ -98,11 +82,11 @@ data_to_save = \
             The challenge is on data analysis part , find a good features and train a decent model.
             """,
         # -----------------------------------------------------------------------------------------------------------------------
-        "Proposed by": "Dr. Ryan Engstrom",
-        "Proposed by email": "rengstro@gwu.edu",
-        "instructor": "Amir Jafari",
-        "instructor_email": "ajafari@gmail.com",
-        "github_repo": "https://github.com/amir-jafari/Capstone",
+        "Proposed by": "Aidan Smith",
+        "Proposed by email": "aidansmith@gwmail.gwu.edu",
+        "instructor": "Edwin Lo",
+        "instructor_email": "edwinlo@email.gwu.edu",
+        "github_repo": "https://github.com/Aidan-Smith92/CapstoneProposal",
         # -----------------------------------------------------------------------------------------------------------------------
     }
 os.makedirs(
