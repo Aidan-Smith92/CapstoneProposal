@@ -1,0 +1,18 @@
+{
+  "Version": "001",
+  "Year": "2024",
+  "Semester": "Spring",
+  "project_name": "Predicting Educational Outcomes",
+  "Objective": " \n            I want to proedict educational outcome based on demographic information, socio-economic factors, and educational history.\n            ",
+  "Dataset": "\n            I will be using https://nces.ed.gov/.  I will also be using https://www.census.gov/data.html.\n            ",
+  "Rationale": "\n            This will help agencies and schools attempt to determine how to best help produce satisfactory educational outcomes\n            ",
+  "Approach": "\n            I plan on approaching this capstone through several steps.   \n\n            -Create a single dataset\n            -Make training set\n            -Train algorithm using training set\n            -Test accuracy of algorithm\n            -Try to improve accuracy\n            ",
+  "Timeline": "\n            This a rough time line for this project:  \n\n            - (2 Weeks) Creating a single dataset\n            - (2 Weeks) Make training set\n            - (3 Weeks) Train algorithm\n            - (2 Weeks) Test accuracy of algorithm\n            - (3 Weeks) Try to improve accuracy of algorithm\n            ",
+  "Expected Number Students": "\n            For this project maximum 4 students can work on it.  \n            ",
+  "Possible Issues": "\n            The challenge is improving the accuracy of the algorithm.\n            ",
+  "Proposed by": "Aidan Smith",
+  "Proposed by email": "aidansmith@gwmail.gwu.edu",
+  "instructor": "Edwin Lo",
+  "instructor_email": "edwinlo@email.gwu.edu",
+  "github_repo": "https://github.com/Aidan-Smith92/CapstoneProposal"
+}
