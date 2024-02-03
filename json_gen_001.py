@@ -29,28 +29,33 @@ data_to_save = \
         # -----------------------------------------------------------------------------------------------------------------------
         "Objective":
             """ 
+            I want to proedict educational outcome based on demographic information, socio-economic factors, and educational history.
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Dataset":
             """
- 
+            I will be using
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Rationale":
             """
+            This will help agencies and schools attempt to determine how to best help produce satisfactory educational outcomes
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Approach":
             """
             I plan on approaching this capstone through several steps.   
+
+            -Create a single dataset
+
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Timeline":
             """
             This a rough time line for this project:  
 
+            - (2 Weeks) Creating a single dataset
             - (3 Weeks) 
-            - (3 Weeks)
             - (4 Weeks)
             - (2 Weeks)
             - (1 Weeks)
