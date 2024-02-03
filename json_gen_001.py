@@ -25,7 +25,7 @@ data_to_save = \
             """Spring""",
         # -----------------------------------------------------------------------------------------------------------------------
         "project_name":
-            """""",
+            """Predicting Educational Outcomes""",
         # -----------------------------------------------------------------------------------------------------------------------
         "Objective":
             """ 
@@ -47,7 +47,10 @@ data_to_save = \
             I plan on approaching this capstone through several steps.   
 
             -Create a single dataset
-
+            -Make training set
+            -Train algorithm using training set
+            -Test accuracy of algorithm
+            -Try to improve accuracy
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Timeline":
@@ -55,12 +58,10 @@ data_to_save = \
             This a rough time line for this project:  
 
             - (2 Weeks) Creating a single dataset
-            - (3 Weeks) 
-            - (4 Weeks)
-            - (2 Weeks)
-            - (1 Weeks)
-            - (1 Weeks)
-            - (1 Weeks)
+            - (2 Weeks) Make training set
+            - (3 Weeks) Train algorithm
+            - (2 Weeks) Test accuracy of algorithm
+            - (3 Weeks) Try to improve accuracy of algorithm
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Expected Number Students":
@@ -70,14 +71,14 @@ data_to_save = \
         # -----------------------------------------------------------------------------------------------------------------------
         "Possible Issues":
             """
-            The challenge is on data analysis part , find a good features and train a decent model.
+            The challenge is improving the accuracy of the algorithm.
             """,
         # -----------------------------------------------------------------------------------------------------------------------
-        "Proposed by": "Dr. Ryan Engstrom",
-        "Proposed by email": "rengstro@gwu.edu",
-        "instructor": "Amir Jafari",
-        "instructor_email": "ajafari@gmail.com",
-        "github_repo": "https://github.com/amir-jafari/Capstone",
+        "Proposed by": "Aidan Smith",
+        "Proposed by email": "aidansmith@gwmail.gwu.edu",
+        "instructor": "Edwin Lo",
+        "instructor_email": "edwinlo@email.gwu.edu",
+        "github_repo": "https://github.com/Aidan-Smith92/CapstoneProposal",
         # -----------------------------------------------------------------------------------------------------------------------
     }
 os.makedirs(
