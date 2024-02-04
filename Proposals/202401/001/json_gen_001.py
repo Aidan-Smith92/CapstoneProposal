@@ -39,29 +39,42 @@ data_to_save = \
         # -----------------------------------------------------------------------------------------------------------------------
         "Rationale":
             """
-            This will help agencies and schools attempt to determine how to best help produce satisfactory educational outcomes
+            This predictive model aims to assist agencies and schools in identifying effective strategies to enhance satisfactory educational outcomes. By understanding the key factors influencing success, tailored interventions can be implemented.
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Approach":
             """
-            I plan on approaching this capstone through several steps.   
-
-            -Create a single dataset
-            -Make training set
-            -Train algorithm using training set
-            -Test accuracy of algorithm
-            -Try to improve accuracy
+            1. Data Collection and Cleaning:
+            - Retrieve relevant data from specified sources and conduct thorough cleaning to address missing values, outliers, and inconsistencies.
+            
+            2. Feature Engineering and Selection:
+            - Perform exploratory data analysis and consider creating new features and employ techniques for selecting the most impactful variables.
+            
+            3. Data Integration:
+            - Merge the datasets together into one file, ensuring alignment of key variables and coherent representation.
+            
+            4. Training Set Development:
+            - Construct a representative training data set.
+            
+            5. Model Selection and Iterative Development:
+            - Experiment with different machine learning algorithms, emphasizing iterative development for optimal model selection.
+            
+            6. Cross-Validation and Hyperparameter Tuning:
+            - Implement cross-validation techniques to ensure model generalization, and fine-tune hyperparameters for optimal performance.
+            
+            7. Performance Metrics and Model Interpretability:
+            - Utilize model performance metrics for accurate evaluation and ensure the interpretability of the model for insights into predictive factors.
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Timeline":
             """
             This a rough time line for this project:  
 
-            - (2 Weeks) Creating a single dataset
-            - (2 Weeks) Make training set
-            - (3 Weeks) Train algorithm
-            - (2 Weeks) Test accuracy of algorithm
-            - (3 Weeks) Try to improve accuracy of algorithm
+            - (2 Weeks) Data Collection and Cleaning
+            - (2 Weeks) Feature Engineering and Selection
+            - (3 Weeks) Data Integration and Training Set Formation
+            - (2 Weeks) Model Selection and Iterative Development
+            - (3 Weeks) Cross-Validation, Hyperparameter Tuning, and Evaluation
             """,
         # -----------------------------------------------------------------------------------------------------------------------
         "Expected Number Students":
