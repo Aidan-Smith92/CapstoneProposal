@@ -2,6 +2,9 @@
 import json
 import os
 import shutil
+#from html import HTML
+#import html
+from html import HTML
 
 #%%
 
@@ -101,3 +104,7 @@ output_file_path = os.getcwd() + f'{os.sep}Proposals{os.sep}{data_to_save["Year"
 save_to_json(data_to_save, output_file_path + "input.json")
 shutil.copy(thisfilename, output_file_path)
 print(f"Data saved to {output_file_path}")
+html_doc = HTML()
+body = html_doc.body()
+body.h1(f"{data_to_save}")
+print(html_doc)
